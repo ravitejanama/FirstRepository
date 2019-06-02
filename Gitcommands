@@ -1,0 +1,8 @@
+git clone <URL> - It is used ot copy the Work Project from Github to local Machine
+
+git add <filename> - Used to update the index with the file name
+git add . - used to update all the files to index
+
+after add command use git commit -m "message" to commit it to local machine
+
+After that use git push to push the files to github
